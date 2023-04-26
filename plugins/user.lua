@@ -23,6 +23,17 @@ return {
       -- },
     },
   },
+  {
+    "navarasu/onedark.nvim",
+    opts = {
+      code_style = {
+        comments = 'none',
+      },
+    },
+  },
+  {
+    "tpope/vim-sleuth",
+  },
   -- {
   --   "ray-x/lsp_signature.nvim",
   --   event = "BufRead",
