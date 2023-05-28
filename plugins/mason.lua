@@ -8,6 +8,7 @@ return {
       ensure_installed = {
         "pyright",
         "lua_ls",
+        "gopls",
       },
     },
   },
@@ -21,6 +22,7 @@ return {
         "stylua",
         -- "flake8",
         "autopep8",
+        "golangci-lint",
       },
     },
   },
